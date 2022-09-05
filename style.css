@@ -1,0 +1,26 @@
+body{
+ background-color: rgb(231, 234, 237)  ;
+ background-image: url(./image/cal1.jpg].jpg);
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ background-attachment: fixed;
+
+}
+
+
+#heading{
+    
+    color: rgb(66, 58, 227);
+}
+.button {
+    background-color: #008CBA; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
